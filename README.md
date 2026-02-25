@@ -1,3 +1,1 @@
-Programacion acelerada de lenguaje natural
-
 Tarea02_G17.ipynb:  Esta práctica aborda el problema de clasificación de números en lenguaje de señas mediante redes neuronales convolucionales (CNN), aplicando los conceptos de visión por computadora estudiados en clase. Se utiliza un dataset de 2062 imágenes que representan los números del 0 al 9 en lenguaje de señas. El objetivo es diseñar, entrenar y evaluar un modelo CNN utilizando la API de Keras en Google Colab, aplicando técnicas de preprocesamiento, ajuste de hiperparámetros y análisis de métricas como precisión y matriz de confusión. Esta implementación busca demostrar la eficacia de las CNN en tareas de reconocimiento visual aplicado a contextos reales.
